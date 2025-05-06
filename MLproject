@@ -1,0 +1,33 @@
+name: mlflow-project
+
+conda_env: conda.yaml
+
+entry_points:
+  data-preprocessing:
+    parameters:
+      raw-data-dir: {type: str, default: "raw-images"}
+      output-dir: {type: str, default: "dataset"}
+      val-size: {type: float, default: 0.2}
+    command: >
+      python data_preprocessing.py
+      --raw-data-dir {raw-data-dir}
+      --output-dir {output-dir}
+      --val-size {val-size}
+
+  hyperparameters-tuning:
+    parameters:
+      n-trials: {type: int, default: 10}
+    command: "python hyperparameters_tuning.py --n-trials {n-trials}"
+
+  model-training:
+    parameters:
+      epochs: {type: int, default: 3}
+      batch-size: {type: int, default: 16}
+      learning-rate: {type: float, default: 0.001}
+    command: "python model_training.py --epochs {epochs} --batch-size {batch-size} --learning-rate {learning-rate}"
+
+  data-evaluation:
+    parameters:
+      eval-dataset: {type: str, default: "dataset/val"}
+    command: "python data_evaluation.py --eval-dataset {eval-dataset}"
+

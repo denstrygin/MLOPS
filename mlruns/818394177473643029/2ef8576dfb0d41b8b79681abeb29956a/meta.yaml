@@ -1,0 +1,15 @@
+artifact_uri: file:///home/denstrygin/MLOPS/mlruns/818394177473643029/2ef8576dfb0d41b8b79681abeb29956a/artifacts
+end_time: 1746528870143
+entry_point_name: ''
+experiment_id: '818394177473643029'
+lifecycle_stage: active
+run_id: 2ef8576dfb0d41b8b79681abeb29956a
+run_name: resilient-slug-884
+run_uuid: 2ef8576dfb0d41b8b79681abeb29956a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746528829946
+status: 3
+tags: []
+user_id: denstrygin

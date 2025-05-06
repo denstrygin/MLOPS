@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746529369510
+current_stage: None
+description: null
+last_updated_timestamp: 1746529369510
+name: LeopardsVsLionsClassifier
+run_id: 2f7bbb603e904f7fa99ad83ec7d22ef6
+run_link: null
+source: file:///home/denstrygin/MLOPS/mlruns/818394177473643029/2f7bbb603e904f7fa99ad83ec7d22ef6/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/denstrygin/MLOPS/mlruns/818394177473643029/2f7bbb603e904f7fa99ad83ec7d22ef6/artifacts/model
+user_id: null
+version: 1

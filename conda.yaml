@@ -1,0 +1,13 @@
+name: mlops
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - mlflow
+  - loguru
+  - pytorch::pytorch
+  - pytorch::torchvision
+  - optuna

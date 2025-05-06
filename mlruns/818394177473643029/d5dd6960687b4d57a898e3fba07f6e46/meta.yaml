@@ -1,0 +1,15 @@
+artifact_uri: file:///home/denstrygin/MLOPS/mlruns/818394177473643029/d5dd6960687b4d57a898e3fba07f6e46/artifacts
+end_time: 1746529034621
+entry_point_name: ''
+experiment_id: '818394177473643029'
+lifecycle_stage: active
+run_id: d5dd6960687b4d57a898e3fba07f6e46
+run_name: awesome-pug-64
+run_uuid: d5dd6960687b4d57a898e3fba07f6e46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746528993630
+status: 3
+tags: []
+user_id: denstrygin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/denstrygin/MLOPS/mlruns/818394177473643029/8fea9d7719f7406b9173ed7934f501b8/artifacts
+end_time: 1746528952360
+entry_point_name: ''
+experiment_id: '818394177473643029'
+lifecycle_stage: active
+run_id: 8fea9d7719f7406b9173ed7934f501b8
+run_name: crawling-shark-499
+run_uuid: 8fea9d7719f7406b9173ed7934f501b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746528911554
+status: 3
+tags: []
+user_id: denstrygin

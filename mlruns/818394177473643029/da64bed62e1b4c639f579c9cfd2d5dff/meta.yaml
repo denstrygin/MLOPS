@@ -1,0 +1,15 @@
+artifact_uri: file:///home/denstrygin/MLOPS/mlruns/818394177473643029/da64bed62e1b4c639f579c9cfd2d5dff/artifacts
+end_time: 1746529075086
+entry_point_name: ''
+experiment_id: '818394177473643029'
+lifecycle_stage: active
+run_id: da64bed62e1b4c639f579c9cfd2d5dff
+run_name: blushing-cat-217
+run_uuid: da64bed62e1b4c639f579c9cfd2d5dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746529034736
+status: 3
+tags: []
+user_id: denstrygin

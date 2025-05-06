@@ -1,0 +1,15 @@
+artifact_uri: file:///home/denstrygin/MLOPS/mlruns/818394177473643029/4edaf20545e94803a1c48b8d0650430c/artifacts
+end_time: 1746528429703
+entry_point_name: ''
+experiment_id: '818394177473643029'
+lifecycle_stage: active
+run_id: 4edaf20545e94803a1c48b8d0650430c
+run_name: Data_Preprocessing
+run_uuid: 4edaf20545e94803a1c48b8d0650430c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746528428133
+status: 3
+tags: []
+user_id: denstrygin
